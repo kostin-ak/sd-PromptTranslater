@@ -1,6 +1,6 @@
 # PromptTranslater
 
-A custom extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) which helps to write prompta in your native language, translating it into English for you.
+A custom extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) which helps to write prompt in your native language, translating it into English for you.
 
 ## Using
 
