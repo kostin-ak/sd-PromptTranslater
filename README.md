@@ -11,7 +11,7 @@ In order to use this extension, select the text that you need to translate and p
 You can install it using the extensions menu in your webui by inserting this link in the "URL for extension's git repository"
 
 ```
-  https://github.com/kostin-ak/sd-PromptTranslater.git
+https://github.com/kostin-ak/sd-PromptTranslater.git
 ```
 
 ![Installation](https://user-images.githubusercontent.com/43380468/220633481-d73a158a-76dc-4527-b675-85f0aa05ba10.png)
@@ -19,6 +19,6 @@ You can install it using the extensions menu in your webui by inserting this lin
 Or you can also install it manually by running the following command from within the webui directory:
 
 ```
-  git clone https://github.com/kostin-ak/sd-PromptTranslater.git
+git clone https://github.com/kostin-ak/sd-PromptTranslater.git
 ```
 
