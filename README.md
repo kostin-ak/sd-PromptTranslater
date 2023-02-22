@@ -12,7 +12,7 @@ You can install it using the extensions menu in your webui by inserting this lin
 
 `https://github.com/kostin-ak/sd-PromptTranslater.git`
 
-![Installation](https://user-images.githubusercontent.com/43380468/220633072-80c0ae62-e26e-4169-9ac3-b478fa6977d4.png)
+![Installation](https://user-images.githubusercontent.com/43380468/220633481-d73a158a-76dc-4527-b675-85f0aa05ba10.png)
 
 Or you can also install it manually by running the following command from within the webui directory:
 
