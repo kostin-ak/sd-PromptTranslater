@@ -18,7 +18,7 @@ window.onload = function() {
         button.id = id;
         button.type = "button";
         button.innerHTML = innerHTML;
-        button.className = "gr-button gr-button-lg gr-button-tool";
+        button.className = "lg secondary gradio-button tool svelte-1ipelgc";
         return button;
     }
 
@@ -86,7 +86,7 @@ window.onload = function() {
         target.dispatchEvent(inputEvent);
     }
 
-    let div = gradioApp().querySelector('#txt2img_tools');
+    let div = gradioApp().querySelector('#txt2img_tools > .form');
 
     div.append(createButton("translate_button_t2i", "Ŧ"));
 
@@ -116,7 +116,7 @@ window.onload = function() {
         
     };
 
-    let div2 = gradioApp().querySelector('#img2img_tools');
+    let div2 = gradioApp().querySelector('#img2img_tools > .form');
 
     div2.append(createButton("translate_button_i2i", "Ŧ"));
 
